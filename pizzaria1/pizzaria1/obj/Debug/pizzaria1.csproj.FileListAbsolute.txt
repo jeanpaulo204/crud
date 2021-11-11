@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2015\Projects\pizzaria1\pizzaria1\bin\Debug\pizzaria1.exe.config
+c:\users\user\documents\visual studio 2015\Projects\pizzaria1\pizzaria1\bin\Debug\pizzaria1.exe
+c:\users\user\documents\visual studio 2015\Projects\pizzaria1\pizzaria1\bin\Debug\pizzaria1.pdb
+c:\users\user\documents\visual studio 2015\Projects\pizzaria1\pizzaria1\obj\Debug\pizzaria1.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\pizzaria1\pizzaria1\obj\Debug\pizzaria1.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\pizzaria1\pizzaria1\obj\Debug\pizzaria1.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\pizzaria1\pizzaria1\obj\Debug\pizzaria1.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\pizzaria1\pizzaria1\obj\Debug\pizzaria1.exe
+c:\users\user\documents\visual studio 2015\Projects\pizzaria1\pizzaria1\obj\Debug\pizzaria1.pdb
+c:\users\user\documents\visual studio 2015\Projects\pizzaria1\pizzaria1\obj\Debug\pizzaria1.addcliente.resources
